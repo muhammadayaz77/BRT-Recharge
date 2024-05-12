@@ -1,0 +1,118 @@
+body{
+    background: url('./Images/baground.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
+
+.content{
+    background-color: rgba(0, 0, 0, 0.534);
+    border: 3px solid yellow;
+    box-shadow: 0px 0px 10px yellowgreen;
+}
+
+.content .head{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.head img{
+    height: 80px;
+    width: 80px;
+}
+.btn-con button{
+    width: 140px;
+    height: 80px;
+    font-size: 17px;
+    font-weight: 600;
+    border: unset;
+    background-color: white;
+    border-radius: 10px;
+    border-bottom: 5px solid green;
+}
+.btn-con button:hover{
+    width: 140px;
+    height: 80px;
+    font-size: 17px;
+    font-weight: 800;
+    border: 1px solid yellow;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    /* border-bottom: 5px solid green; */
+}
+/* .btn-con div{
+    /* display: flex; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    /* width: 200px; 
+} */
+.btn-con{
+    width: 700px;
+    /* border: 1px solid white; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.btn-con .btn2{
+    display: flex;
+    justify-content: space-around;
+    /* border:1px solid white; */
+    width: 600px;
+    margin-left: 40px;
+}
+.btn-con .btn1{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.btn-con img{
+    width: 470px;
+    height: 280px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.btn-con .back{
+    border-bottom: 5px solid red;
+}
+.p2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.p3 button{
+    width: 150px;
+    height: 80px;
+    font-size: 17px;
+    font-weight: 600;
+    border: unset;
+    background-color: white;
+    border-radius: 10px;
+    border-bottom: 5px solid green;
+}
+.p3 button:hover{
+    font-size: 17px;
+    font-weight: 800;
+    border: 1px solid yellow;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    /* border-bottom: 5px solid green; */
+}
+.content .back2{
+    border-bottom: 5px solid red;
+}
+.p3{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+}
+
+.h2{
+    background-color: green;
+    display: inline;
+    padding: 10px 15px;
+    font-size: 25px;
+}
