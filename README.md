@@ -5,8 +5,7 @@ A dynamic web application for recharging BRT (Bus Rapid Transit) cards online. T
 ## Features
 
 - **Recharge Amount Selection**: Users can choose from multiple recharge amounts (£10, £20, £30).
-- **Payment Method Selection**: Users can select their preferred payment method (Credit Card, Debit Card, PayPal).
-- **Real-time Price Calculation**: Total charges are calculated instantly based on the selected recharge amount and payment method.
+- **Payment Method Selection**: Users can select their preferred payment method (Credit Card, Debit Card, Cashl).
 - **User-friendly Interface**: Intuitive design ensures a smooth user experience.
 - **Responsive Design**: Compatible with various devices and screen sizes.
 
@@ -26,14 +25,10 @@ A dynamic web application for recharging BRT (Bus Rapid Transit) cards online. T
 
 3. Select a recharge amount and payment method, then click on "Calculate Price" to view the total charge.
 
-## Contributors
+## Your site is live at 
 
-- [Your Name](https://github.com/yourusername)
+- [Click](https://muhammadayaz77.github.io/BRT-Recharge/)
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
